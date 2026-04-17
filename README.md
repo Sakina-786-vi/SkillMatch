@@ -24,6 +24,27 @@ Finding the right team is hard:
 
 ---
 
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- TypeScript
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Real-Time Communication
+- Socket.IO
+
+### Tools & Others
+- Git & GitHub
+- 
+
 ## 💡 Key Features
 
 ### 👤 1. Smart Profile System
